@@ -44,16 +44,6 @@ An analytical problem solver passionate about uncovering the "hidden why" behind
 
 ---
 
-## Featured Projects
-
-### Smart Queue Management System
-
-A web-based solution for digital token generation, queue tracking, and real-time updates.
-
-### Data Analytics Projects
-
-Applying Python, SQL, and Power BI to analyze datasets and generate actionable insights.
-
 ---
 
 ## Connect With Me
