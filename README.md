@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Sindhushree 👋
 
-<!--
-**sindhushreeps/sindhushreeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python • SQL • Power BI • Machine Learning
 
-Here are some ideas to get you started:
+An analytical problem solver passionate about uncovering the "hidden why" behind complex systems. Skilled in exploring data, identifying meaningful patterns, and transforming insights into practical, data-driven solutions. I enjoy combining technical rigor with a focus on efficiency, ensuring that every analysis and model contributes to solving real-world problems and supporting informed decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Information Science & Engineering Student
+
+📊 Interested in Data Analytics, Machine Learning, Business Intelligence, and Data Visualization
+
+🌱 Currently building projects using Python, SQL, Power BI, and Machine Learning to solve real-world problems.
+
+---
+
+## What I Work With
+
+### Languages & Databases
+
+* Python (Pandas, NumPy, Scikit-Learn, Seaborn)
+* SQL (PostgreSQL, MySQL)
+
+### Analytics & Machine Learning
+
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Feature Engineering
+* Predictive Modeling
+* Natural Language Processing (NLP)
+
+### Tools
+
+* Power BI
+* Power Query
+* Microsoft Excel
+* Git & GitHub
+
+---
+
+## Currently Exploring
+
+* Advanced SQL for Analytics
+* Interactive Power BI Dashboards
+* Machine Learning Applications
+* Real-World Data Analysis Projects
+
+---
+
+## Featured Projects
+
+### Smart Queue Management System
+
+A web-based solution for digital token generation, queue tracking, and real-time updates.
+
+### Data Analytics Projects
+
+Applying Python, SQL, and Power BI to analyze datasets and generate actionable insights.
+
+---
+
+## Connect With Me
+
+📧 Email: **[sindhushreeps146@gmail.com](mailto:sindhushreeps146@gmail.com)**
+
+💼 LinkedIn: **https://www.linkedin.com/in/sindhushreeps**
+
+---
+
+> Turning data into insights and insights into decisions.
