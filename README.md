@@ -1,57 +1,70 @@
 # Hi, I'm Sindhushree 👋
 
-### Aspiring Data Analyst | Python • SQL • Power BI • Machine Learning
+### Data Analyst | Python • SQL • Power BI • Machine Learning
 
-An analytical problem solver passionate about uncovering the "hidden why" behind complex systems. Skilled in exploring data, identifying meaningful patterns, and transforming insights into practical, data-driven solutions. I enjoy combining technical rigor with a focus on efficiency, ensuring that every analysis and model contributes to solving real-world problems and supporting informed decision-making.
+Data Analytics Enthusiast passionate about transforming raw data into meaningful insights and actionable business decisions.
 
-🎓 Information Science & Engineering Student
-
-📊 Interested in Data Analytics, Machine Learning, Business Intelligence, and Data Visualization
-
-🌱 Currently building projects using Python, SQL, Power BI, and Machine Learning to solve real-world problems.
+I specialize in exploring datasets, identifying hidden patterns, and building data-driven solutions using analytics, visualization, and machine learning techniques.
 
 ---
 
-## What I Work With
+## About Me
 
-### Languages & Databases
+🎓 Information Science & Engineering Student
+📊 Focused on Data Analytics, Business Intelligence & Machine Learning
+🧠 Strong interest in solving real-world problems using data
+🌱 Actively building skills in analytics, visualization, and predictive modeling
+
+---
+
+## Technical Skills
+
+### Programming & Databases
 
 * Python (Pandas, NumPy, Scikit-Learn, Seaborn)
 * SQL (PostgreSQL, MySQL)
 
-### Analytics & Machine Learning
+### Data Analytics & Machine Learning
 
 * Exploratory Data Analysis (EDA)
 * Data Cleaning & Feature Engineering
 * Predictive Modeling
 * Natural Language Processing (NLP)
 
-### Tools
+### Visualization & BI Tools
 
 * Power BI
 * Power Query
 * Microsoft Excel
+* Dashboard Development
+
+### Tools
+
 * Git & GitHub
 
 ---
 
-## Currently Exploring
+## Current Focus
 
-* Advanced SQL for Analytics
-* Interactive Power BI Dashboards
-* Machine Learning Applications
-* Real-World Data Analysis Projects
+* Building end-to-end Data Analytics projects
+* Strengthening SQL for real-world problem solving
+* Creating interactive Power BI dashboards
+* Applying Machine Learning to structured datasets
+* Improving data storytelling & visualization skills
 
 ---
+
+## Career Objective
+
+To secure a Data Analyst role where I can apply my analytical thinking, technical skills, and problem-solving abilities to extract insights from data and support data-driven decision-making.
 
 ---
 
 ## Connect With Me
 
 📧 Email: **[sindhushreeps146@gmail.com](mailto:sindhushreeps146@gmail.com)**
-
-💼 LinkedIn: **https://www.linkedin.com/in/sindhushreeps**
+💼 LinkedIn: **linkedin.com/in/sindhushreeps**
 
 ---
 
-> Turning data into insights and insights into decisions.
+> "Without data, you're just another person with an opinion."
