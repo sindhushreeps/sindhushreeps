@@ -11,8 +11,11 @@ I specialize in exploring datasets, identifying hidden patterns, and building da
 ## About Me
 
 🎓 Information Science & Engineering Student
+
 📊 Focused on Data Analytics, Business Intelligence & Machine Learning
+
 🧠 Strong interest in solving real-world problems using data
+
 🌱 Actively building skills in analytics, visualization, and predictive modeling
 
 ---
