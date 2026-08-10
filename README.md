@@ -65,7 +65,7 @@ To secure a Data Analyst role where I can apply my analytical thinking, technica
 
 ## Connect With Me
 
-📧 Email: **[sindhushreeps146@gmail.com](mailto:sindhushreeps146@gmail.com)**
+📧 Email: **[sindhushreeps14@gmail.com](mailto:sindhushreeps14@gmail.com)**
 
 💼 LinkedIn: **www.linkedin.com/in/sindhushreeps**
 
